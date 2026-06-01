@@ -1,1 +1,0 @@
-Bienvenido al repositorio de la Situación de Aprendizaje para FBO.  Puedes descargar el paquete completo de eXeLearning listo para Moodle haciendo clic en el archivo superheroes-al-rescate_web.zip que se encuentra en la lista de arriba. 
